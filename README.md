@@ -65,6 +65,14 @@ The objective is to analyze supply chain data, uncover business insights, and bu
 
 ---
 
+## 📊 Dashboard Preview
+
+Below is the interactive Power BI dashboard developed for Supply Chain Analytics.
+
+![Supply Chain Dashboard](Supply%20chain%20Analytics-dashboard.png)
+
+---
+
 ## 📬 Contact
 
 **Soham Pirag**
